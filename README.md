@@ -99,11 +99,11 @@ While the base model gives a decent starting point, the feature engineering mode
 The following evaluation metrics were used to assess the models:
 | Metric    | Base Model   | Feature Engineering Model  |
 |-----------|--------------|----------------------------|
-| Accuracy  | 0.79         | 0.7847                     |
-| Recall    | 0.65         | 0.6331                     |
-| Precision | 0.50         | 0.493                      |
-| F1 Score  | 0.56         | 0.5544                     |
-| AUC       | 0.74         | 0.7292                     |
+| Accuracy  | 0.7847       | 0.79                       |
+| Recall    | 0.6331       | 0.65                       |
+| Precision | 0.493        | 0.50                       |
+| F1 Score  | 0.5544       | 0.56                       |
+| AUC       | 0.7292       | 0.74                       |
 
 
 ## 6. Conclusion
